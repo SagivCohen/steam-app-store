@@ -1,0 +1,767 @@
+[
+  {
+    "id": "1206070",
+    "title": "Phonopolis",
+    "normalPrice": 35.98,
+    "salePrice": 20.38,
+    "discount": 43,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1206070/eaf4088286084079a50063faf920ccd330de15ed/capsule_231x87.jpg?t=1779285913",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1206070/header.jpg",
+    "os": [
+      "linux"
+    ]
+  },
+  {
+    "id": "552500",
+    "title": "Warhammer: Vermintide 2",
+    "normalPrice": 29.99,
+    "salePrice": 0,
+    "discount": 95,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/552500/capsule_231x87.jpg?t=1764008361",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/552500/header.jpg",
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "632470",
+    "title": "Disco Elysium - The Final Cut: Definitive Extended Edition (Includes Digital Artbook, Original Soundtrack, Award-Winning Narrative Expansion & Full English Voice Acting Overhaul)",
+    "normalPrice": 39.99,
+    "salePrice": 9.99,
+    "discount": 75,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/capsule_231x87.jpg?t=1779404536",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/632470/header.jpg",
+    "os": [
+      "windows",
+      "mac"
+    ]
+  },
+  {
+    "id": "40800",
+    "title": "Super Meat Boy",
+    "normalPrice": 14.99,
+    "salePrice": 1.19,
+    "discount": 92,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40800/capsule_231x87.jpg?t=1700669950",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/40800/header.jpg",
+    "os": [
+      "linux"
+    ]
+  },
+  {
+    "id": "323190",
+    "title": "Frostpunk",
+    "normalPrice": 29.99,
+    "salePrice": 2.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/323190/45bfdc7f6b60b2acab44cc96c488f938219c42fd/capsule_231x87.jpg?t=1775495730",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/323190/header.jpg",
+    "os": [
+      "mac"
+    ]
+  },
+  {
+    "id": "40700",
+    "title": "Machinarium",
+    "normalPrice": 19.99,
+    "salePrice": 2.99,
+    "discount": 85,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40700/capsule_231x87.jpg?t=1779498950",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/40700/header.jpg",
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "1364100",
+    "title": "Lacuna  A Sci-Fi Noir Adventure",
+    "normalPrice": 15.99,
+    "salePrice": 2.39,
+    "discount": 85,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364100/37f8060c1d18259b63d571415d69cde2096ee995/capsule_231x87_alt_assets_5.jpg?t=1779296611",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1364100/header.jpg",
+    "os": [
+      "windows"
+    ]
+  },
+  {
+    "id": "940680",
+    "title": "The Textorcist: The Story of Ray Bibbia",
+    "normalPrice": 14.99,
+    "salePrice": 1.34,
+    "discount": 91,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/940680/capsule_231x87.jpg?t=1754643092",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/940680/header.jpg",
+    "os": [
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "1611910",
+    "title": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+    "normalPrice": 44.99,
+    "salePrice": 4.49,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1611910/capsule_231x87.jpg?t=1764856974",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1611910/header.jpg",
+    "os": [
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "281610",
+    "title": "Homeworld: Deserts of Kharak",
+    "normalPrice": 49.99,
+    "salePrice": 4.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281610/capsule_231x87.jpg?t=1754416775",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/281610/header.jpg",
+    "os": [
+      "windows",
+      "mac"
+    ]
+  },
+  {
+    "id": "7670",
+    "title": "BioShock",
+    "normalPrice": 19.99,
+    "salePrice": 4.99,
+    "discount": 75,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7670/capsule_231x87.jpg?t=1730172622",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/7670/header.jpg",
+    "os": [
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "244160",
+    "title": "Homeworld Remastered Collection",
+    "normalPrice": 34.99,
+    "salePrice": 3.49,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1754416997",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/244160/header.jpg",
+    "os": [
+      "windows"
+    ]
+  },
+  {
+    "id": "235540",
+    "title": "Warhammer: End Times - Vermintide",
+    "normalPrice": 29.99,
+    "salePrice": 2.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/235540/13b1be07e53f1febe5c229b8539e5a964dfbecc5/capsule_231x87.jpg?t=1761316136",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/235540/header.jpg",
+    "os": [
+      "windows",
+      "mac"
+    ]
+  },
+  {
+    "id": "390290",
+    "title": "Bulb Boy",
+    "normalPrice": 8.99,
+    "salePrice": 0.89,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/390290/capsule_231x87.jpg?t=1762291079",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/390290/header.jpg",
+    "os": [
+      "windows",
+      "linux"
+    ]
+  },
+  {
+    "id": "42140",
+    "title": "Hamilton's Great Adventure",
+    "normalPrice": 9.99,
+    "salePrice": 0.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42140/capsule_231x87.jpg?t=1591085088",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/42140/header.jpg",
+    "os": [
+      "linux"
+    ]
+  },
+  {
+    "id": "290300",
+    "title": "Rebel Galaxy",
+    "normalPrice": 19.99,
+    "salePrice": 1.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/290300/capsule_231x87.jpg?t=1778077786",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/290300/header.jpg",
+    "os": [
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "3010",
+    "title": "Xpand Rally",
+    "normalPrice": 4.99,
+    "salePrice": 0.54,
+    "discount": 89,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3010/capsule_231x87.jpg?t=1729249898",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/3010/header.jpg",
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "573120",
+    "title": "Dead in Vinland",
+    "normalPrice": 19.99,
+    "salePrice": 1.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/573120/capsule_231x87.jpg?t=1771540219",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/573120/header.jpg",
+    "os": [
+      "linux"
+    ]
+  },
+  {
+    "id": "1676910",
+    "title": "Onde",
+    "normalPrice": 13.99,
+    "salePrice": 1.39,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1676910/capsule_231x87.jpg?t=1777453459",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1676910/header.jpg",
+    "os": [
+      "mac"
+    ]
+  },
+  {
+    "id": "613470",
+    "title": "The Inner World - The Last Wind Monk",
+    "normalPrice": 19.99,
+    "salePrice": 1.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/613470/capsule_231x87.jpg?t=1717679611",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/613470/header.jpg",
+    "os": [
+      "windows"
+    ]
+  },
+  {
+    "id": "241260",
+    "title": "Sherlock Holmes: Crimes and Punishments",
+    "normalPrice": 29.99,
+    "salePrice": 2.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/241260/capsule_231x87.jpg?t=1758523035",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/241260/header.jpg",
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "4560",
+    "title": "Company of Heroes",
+    "normalPrice": 19.99,
+    "salePrice": 3.99,
+    "discount": 80,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/228200/capsule_231x87.jpg?t=1777996337",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/4560/header.jpg",
+    "os": [
+      "windows"
+    ]
+  },
+  {
+    "id": "8850",
+    "title": "BioShock 2",
+    "normalPrice": 19.99,
+    "salePrice": 2.99,
+    "discount": 85,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8850/capsule_231x87.jpg?t=1730174099",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/8850/header.jpg",
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "1153640",
+    "title": "Chorus",
+    "normalPrice": 24.99,
+    "salePrice": 2.49,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1153640/capsule_231x87.jpg?t=1730478689",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1153640/header.jpg",
+    "os": [
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "1142710",
+    "title": "Total War: WARHAMMER III",
+    "normalPrice": 59.99,
+    "salePrice": 8.99,
+    "discount": 85,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1142710/capsule_231x87.jpg?t=1779441058",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1142710/header.jpg",
+    "os": [
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "1137300",
+    "title": "Sherlock Holmes: Chapter One",
+    "normalPrice": 44.99,
+    "salePrice": 4.49,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1137300/capsule_231x87.jpg?t=1758522920",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1137300/header.jpg",
+    "os": [
+      "linux"
+    ]
+  },
+  {
+    "id": "276810",
+    "title": "Mordheim: City of the Damned",
+    "normalPrice": 19.99,
+    "salePrice": 1.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/276810/capsule_231x87.jpg?t=1726153222",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/276810/header.jpg",
+    "os": [
+      "windows"
+    ]
+  },
+  {
+    "id": "204450",
+    "title": "Call of Juarez: Gunslinger",
+    "normalPrice": 14.99,
+    "salePrice": 1.49,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/204450/capsule_231x87.jpg?t=1728907994",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/204450/header.jpg",
+    "os": [
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "1231950",
+    "title": "The Innsmouth Case",
+    "normalPrice": 12.49,
+    "salePrice": 1.24,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1231950/capsule_231x87.jpg?t=1728904268",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1231950/header.jpg",
+    "os": [
+      "windows",
+      "linux"
+    ]
+  },
+  {
+    "id": "673880",
+    "title": "Warhammer 40,000: Mechanicus",
+    "normalPrice": 29.99,
+    "salePrice": 3.59,
+    "discount": 88,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/673880/capsule_231x87.jpg?t=1747933345",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/673880/header.jpg",
+    "os": [
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "205650",
+    "title": "The Testament of Sherlock Holmes",
+    "normalPrice": 19.99,
+    "salePrice": 1.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/205650/capsule_231x87.jpg?t=1689178759",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/205650/header.jpg",
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "1186640",
+    "title": "Pumpkin Jack",
+    "normalPrice": 29.99,
+    "salePrice": 3.59,
+    "discount": 88,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1186640/capsule_231x87.jpg?t=1760540939",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1186640/header.jpg",
+    "os": [
+      "windows"
+    ]
+  },
+  {
+    "id": "1342490",
+    "title": "Daemon X Machina: Titanic Scion",
+    "normalPrice": 69.99,
+    "salePrice": 13.99,
+    "discount": 80,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1342490/6b22efc1fa8eeeedf5f708946d06bf2e77a886c7/capsule_231x87.jpg?t=1779123309",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1342490/header.jpg",
+    "os": [
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "11040",
+    "title": "Sherlock Holmes - Nemesis",
+    "normalPrice": 9.99,
+    "salePrice": 0.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11040/capsule_231x87.jpg?t=1667212865",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/11040/header.jpg",
+    "os": [
+      "windows",
+      "linux"
+    ]
+  },
+  {
+    "id": "921800",
+    "title": "Encased: A Sci-Fi Post-Apocalyptic RPG",
+    "normalPrice": 29.99,
+    "salePrice": 2.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/921800/capsule_231x87.jpg?t=1669389314",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/921800/header.jpg",
+    "os": [
+      "windows",
+      "mac"
+    ]
+  },
+  {
+    "id": "882020",
+    "title": "Monster Energy Supercross - The Official Videogame 2",
+    "normalPrice": 19.99,
+    "salePrice": 1.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/882020/capsule_231x87.jpg?t=1728478491",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/882020/header.jpg",
+    "os": [
+      "linux"
+    ]
+  },
+  {
+    "id": "933820",
+    "title": "Endzone - A World Apart",
+    "normalPrice": 24.99,
+    "salePrice": 2.49,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/933820/capsule_231x87.jpg?t=1771493895",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/933820/header.jpg",
+    "os": [
+      "linux"
+    ]
+  },
+  {
+    "id": "42120",
+    "title": "Lead and Gold: Gangs of the Wild West",
+    "normalPrice": 9.99,
+    "salePrice": 0.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42120/capsule_231x87.jpg?t=1729084001",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/42120/header.jpg",
+    "os": [
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "11050",
+    "title": "Dracula Origin",
+    "normalPrice": 9.99,
+    "salePrice": 0.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11050/capsule_231x87.jpg?t=1660124866",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/11050/header.jpg",
+    "os": [
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "1171690",
+    "title": "Wayfinder",
+    "normalPrice": 24.99,
+    "salePrice": 3.49,
+    "discount": 86,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1171690/a2ebc0f10f9b71eabfb150dfc05195cad94cdb68/capsule_231x87.jpg?t=1768340055",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1171690/header.jpg",
+    "os": [
+      "windows"
+    ]
+  },
+  {
+    "id": "261110",
+    "title": "Killer is Dead - Nightmare Edition",
+    "normalPrice": 19.99,
+    "salePrice": 1.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/261110/capsule_231x87.jpg?t=1730389855",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/261110/header.jpg",
+    "os": [
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "336420",
+    "title": "Bloodsports.TV",
+    "normalPrice": 9.99,
+    "salePrice": 0.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/336420/capsule_231x87.jpg?t=1729083945",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/336420/header.jpg",
+    "os": [
+      "mac"
+    ]
+  },
+  {
+    "id": "8870",
+    "title": "BioShock Infinite",
+    "normalPrice": 29.99,
+    "salePrice": 7.49,
+    "discount": 75,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8870/capsule_231x87.jpg?t=1728673518",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/8870/header.jpg",
+    "os": [
+      "linux"
+    ]
+  },
+  {
+    "id": "209630",
+    "title": "Magrunner: Dark Pulse",
+    "normalPrice": 19.99,
+    "salePrice": 1.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/209630/capsule_231x87.jpg?t=1728650127",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/209630/header.jpg",
+    "os": [
+      "windows",
+      "linux"
+    ]
+  },
+  {
+    "id": "1896880",
+    "title": "Dungeons of Dreadrock",
+    "normalPrice": 5.99,
+    "salePrice": 0.71,
+    "discount": 88,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1896880/capsule_231x87.jpg?t=1728475090",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1896880/header.jpg",
+    "os": [
+      "windows"
+    ]
+  },
+  {
+    "id": "1949030",
+    "title": "Sherlock Holmes The Awakened",
+    "normalPrice": 39.99,
+    "salePrice": 3.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1949030/capsule_231x87.jpg?t=1758522954",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1949030/header.jpg",
+    "os": [
+      "windows",
+      "mac"
+    ]
+  },
+  {
+    "id": "3472040",
+    "title": "NBA 2K26",
+    "normalPrice": 69.99,
+    "salePrice": 9.79,
+    "discount": 86,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3472040/8496e0023f3b24c9bf87e1459cb9651f5a7a6732/capsule_231x87_alt_assets_5.jpg?t=1778857348",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/3472040/header.jpg",
+    "os": [
+      "windows",
+      "mac"
+    ]
+  },
+  {
+    "id": "207690",
+    "title": "Botanicula",
+    "normalPrice": 14.99,
+    "salePrice": 2.99,
+    "discount": 80,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/207690/capsule_231x87.jpg?t=1779469362",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/207690/header.jpg",
+    "os": [
+      "windows",
+      "linux"
+    ]
+  },
+  {
+    "id": "11150",
+    "title": "Sherlock Holmes: The Silver Earring",
+    "normalPrice": 9.99,
+    "salePrice": 0.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11150/capsule_231x87.jpg?t=1667211602",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/11150/header.jpg",
+    "os": [
+      "windows",
+      "linux"
+    ]
+  },
+  {
+    "id": "251430",
+    "title": "The Inner World",
+    "normalPrice": 14.99,
+    "salePrice": 1.49,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/251430/capsule_231x87.jpg?t=1717679220",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/251430/header.jpg",
+    "os": [
+      "mac"
+    ]
+  },
+  {
+    "id": "978300",
+    "title": "Saints Row The Third Remastered",
+    "normalPrice": 29.99,
+    "salePrice": 2.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/978300/capsule_231x87.jpg?t=1764671001",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/978300/header.jpg",
+    "os": [
+      "windows",
+      "linux"
+    ]
+  },
+  {
+    "id": "956030",
+    "title": "Creaks",
+    "normalPrice": 19.99,
+    "salePrice": 3.99,
+    "discount": 80,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/956030/capsule_231x87.jpg?t=1779469130",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/956030/header.jpg",
+    "os": [
+      "windows",
+      "mac"
+    ]
+  },
+  {
+    "id": "1016770",
+    "title": "Interrogation: You Will Be Deceived",
+    "normalPrice": 12.99,
+    "salePrice": 1.29,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1016770/capsule_231x87.jpg?t=1728901217",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1016770/header.jpg",
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "774241",
+    "title": "Warhammer: Chaosbane",
+    "normalPrice": 29.99,
+    "salePrice": 2.99,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/774241/capsule_231x87.jpg?t=1778175102",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/774241/header.jpg",
+    "os": [
+      "windows",
+      "mac"
+    ]
+  },
+  {
+    "id": "1252240",
+    "title": "Aeon Drive",
+    "normalPrice": 14.99,
+    "salePrice": 1.49,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1252240/capsule_231x87.jpg?t=1731176057",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1252240/header.jpg",
+    "os": [
+      "linux"
+    ]
+  },
+  {
+    "id": "711660",
+    "title": "CHUCHEL",
+    "normalPrice": 14.99,
+    "salePrice": 2.99,
+    "discount": 80,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/711660/capsule_231x87.jpg?t=1779469361",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/711660/header.jpg",
+    "os": [
+      "windows"
+    ]
+  },
+  {
+    "id": "1206060",
+    "title": "Happy Game",
+    "normalPrice": 14.99,
+    "salePrice": 2.99,
+    "discount": 80,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1206060/capsule_231x87.jpg?t=1779469358",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1206060/header.jpg",
+    "os": [
+      "windows"
+    ]
+  },
+  {
+    "id": "815370",
+    "title": "Green Hell",
+    "normalPrice": 27.99,
+    "salePrice": 2.79,
+    "discount": 90,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/815370/11b2c1dd531149d24a276ea0abae5f05b966f781/capsule_231x87.jpg?t=1778577818",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/815370/header.jpg",
+    "os": [
+      "windows",
+      "mac",
+      "linux"
+    ]
+  },
+  {
+    "id": "262060",
+    "title": "Darkest Dungeon",
+    "normalPrice": 24.99,
+    "salePrice": 3.74,
+    "discount": 85,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/262060/capsule_231x87.jpg?t=1769780578",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/262060/header.jpg",
+    "os": [
+      "windows",
+      "linux"
+    ]
+  },
+  {
+    "id": "252750",
+    "title": "MouseCraft",
+    "normalPrice": 9.99,
+    "salePrice": 1.49,
+    "discount": 85,
+    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252750/717132c4d8afecf7f731fbf042fc8da842624480/capsule_231x87.jpg?t=1761589517",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/252750/header.jpg",
+    "os": [
+      "windows",
+      "linux"
+    ]
+  }
+]
