@@ -1,6 +1,6 @@
-# Steam App Store - Home Assignment 🎮
+# Steam App Store - Interview Assignment 🎮
 
-Welcome to the **Steam App Store** Full-Stack home assignment! 
+Welcome to the **Steam App Store** FE interview assignment! 
 This project is designed to test your front-end development skills using **React** and **Vite**, and your ability to integrate with a simple **Express** backend.
 
 ---
